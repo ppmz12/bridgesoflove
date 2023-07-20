@@ -443,10 +443,10 @@ body {
     clip-path: inset(-1px);
   }
   .project-item:hover img {
-    clip-path: inset(32px);
+    /* clip-path: inset(32px); */
   }
   .project-item:hover .text {
-    background-color: rgba(25, 61, 1, 0.6);
+    /* background-color: rgba(25, 61, 1, 0.6); */
   }
 }
 /*==========End of the Finished projects======*/
